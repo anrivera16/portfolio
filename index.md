@@ -1,93 +1,117 @@
 ---
-title: About Alembic
+title: Andrew Rivera - Full-Stack Developer
 feature_text: |
-  ## Alembic
-  A Jekyll boilerplate theme designed to be a starting point for any Jekyll website
-feature_image: "https://picsum.photos/1300/400?image=989"
-excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
+  ## Andrew Rivera
+  Full-Stack Software Developer specializing in .NET, Angular, and Cloud Solutions
+feature_image: "https://picsum.photos/1300/400?image=1043"
+excerpt: "Experienced Full-Stack Developer with expertise in C#, Angular, and cloud technologies. Currently working on enterprise applications for government and private sector clients."
 ---
 
-Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get rolling immediately. Install it, configure it, tweak it, push it.
+I'm a passionate **Full-Stack Software Developer** with over 4 years of experience building enterprise applications using modern technologies. I specialize in **.NET backends**, **Angular frontends**, and **cloud deployments**.
 
-{% include button.html text="Fork it" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %} {% include button.html text="Buy me a coffee ☕️" link="https://buymeacoffee.com/daviddarnes#support" color="#f68140" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %} {% include button.html text="Install Alembic ⚗️" link="https://github.com/daviddarnes/alembic#installation" %}
+{% include button.html text="LinkedIn" icon="linkedin" link="https://www.linkedin.com/in/andrew-rivera16" color="#0077B5" %} {% include button.html text="Email Me" icon="email" link="mailto:23andrew16@gmail.com" color="#EA4335" %} {% include button.html text="Download Resume" link="#" color="#6c757d" %}
 
-## Features
+## About Me
 
-- Available as a **theme gem** and **GitHub Pages** theme
-- Clear and elegant design that can be used out of the box or as solid starting point
-- Tested in all major browsers, including **IE and Edge**
-- Built in **Service Worker** so it can work offline and on slow connections
-- **Configurable colours** and typography in a single settings file
-- Extensive set of **shortcodes** to include various elements; such as buttons, icons, figure images and more
-- Solid **typographic framework** from [Sassline](https://sassline.com/)
-- Configurable navigation via a single file
-- Modular Jekyll components
-- Post category support in the form of a single post index page grouped by category
-- Built in live search using JavaScript
-- **Contact form** built in using [Formspree](https://formspree.io/)
-- Designed with **[Siteleaf](https://www.siteleaf.com/)** in mind
-- Has 9 of the most popular networks as performant sharing buttons
-- Has documentation
+I'm currently a Full-Stack Software Developer at **Red Cedar Technology Group**, where I work on mission-critical applications for government clients. My expertise spans the full development stack, from database design to user interfaces, with a focus on clean architecture and modern development practices.
 
-## Examples
+**Key Highlights:**
+- 🏛️ **Secret Clearance** with US Government & **CompTIA Security+** certified
+- 🚀 Led migration of 100+ MySQL functions to Entity Framework
+- ☁️ Experienced with **Azure**, **DoD Cloud**, and on-premise deployments
+- 📱 Expert in modern **Angular** with **RXJS**, **NGRX**, and **Signals**
+- 🏗️ Passionate about **Clean Architecture** and **REST APIs**
 
-Here are a few examples of Alembic out in the wild being used in a variety of ways:
+---
 
-- [bawejakunal.github.io](https://bawejakunal.github.io/)
-- [case2111.github.io](https://case2111.github.io/)
-- [karateca.org](https://www.karateca.org/)
+## Technical Skills
 
-## Installation
+### Proficient Technologies
+**Languages & Frameworks:** C#, JavaScript, SQL, Angular, .NET, HTML, CSS  
+**Libraries & Tools:** Entity Framework, RXJS, NGRX, Git  
+**Architecture:** SysML, BPMN, REST APIs, Clean Architecture
 
-### Quick setup
+### Familiar Technologies
+**Cloud & DevOps:** Python, Azure, Microsoft MSAL Auth  
+**Databases:** PostgreSQL, Microsoft SQL Server, MySQL
 
-To give you a running start I've put together some starter kits that you can download, fork or even deploy immediately:
+---
 
-- ⚗️🍨 Vanilla Jekyll starter kit  
-  [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/daviddarnes/alembic-kit){:style="background: none"}
-- ⚗️🌲 Forestry starter kit  
-  [![Deploy to Forestry](https://assets.forestry.io/import-to-forestry.svg)](https://app.forestry.io/quick-start?repo=daviddarnes/alembic-forestry-kit&engine=jekyll){:style="background: none"}  
-  [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/daviddarnes/alembic-forestry-kit){:style="background: none"}
-- ⚗️💠 Netlify CMS starter kit  
-  [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/daviddarnes/alembic-netlifycms-kit&stack=cms){:style="background: none"}
+## Professional Experience
 
-- ⚗️:octocat: GitHub Pages with remote theme kit  
-  {% include button.html text="Download kit" link="https://github.com/daviddarnes/alembic-kit/archive/remote-theme.zip" color="#24292e" %}
-- ⚗️🚀 Stackbit starter kit  
-  [![Create with Stackbit](https://assets.stackbit.com/badge/create-with-stackbit.svg)](https://app.stackbit.com/create?theme=https://github.com/daviddarnes/alembic-stackbit-kit){:style="background: none"}
+### 🔹 Full-Stack Software Developer
+**Red Cedar Technology Group** • *April 2022 – Present*
 
-### As a Jekyll theme
+- **Enterprise Migration:** Led refactoring of 100+ MySQL functions to Entity Framework for improved maintainability
+- **Cloud Migration:** Assisted in migrating full on-premise application to DoD cloud provider, including complete authentication system rewrite
+- **Frontend Modernization:** Currently rewriting legacy Razor pages to modern Angular frontend using RXJS and NGRX
+- **Angular Innovation:** Refactored NGRX stores to leverage Angular's new Signal framework for better performance
+- **Backend Architecture:** Create new .NET functionality with REST APIs following Clean Architecture principles
 
-1. Add `gem "alembic-jekyll-theme"` to your `Gemfile` to add the theme as a dependancy
-2. Run the command `bundle install` in the root of project to install the theme and its dependancies
-3. Add `theme: alembic-jekyll-theme` to your `_config.yml` file to set the site theme
-4. Run `bundle exec jekyll serve` to build and serve your site
-5. Done! Use the [configuration](#configuration) documentation and the example [`_config.yml`](https://github.com/daviddarnes/alembic/blob/master/_config.yml) file to set things like the navigation, contact form and social sharing buttons
+### 🔹 Consulting/Freelance Developer
+**Independent** • *October 2024 – January 2025*
 
-### As a GitHub Pages remote theme
+- **Healthcare Web App:** Built comprehensive patient management system for Edwardsville healthcare business
+- **Full-Stack Solution:** Microsoft SQL Server database, .NET backend, Angular frontend
+- **Azure Deployment:** Deployed as bundled App Service on Azure with Microsoft MSAL authentication
+- **Business Impact:** Streamlined patient record management and medication refill scheduling
 
-1. Add `gem "jekyll-remote-theme"` to your `Gemfile` to add the theme as a dependancy
-2. Run the command `bundle install` in the root of project to install the jekyll remote theme gem as a dependancy
-3. Add `jekyll-remote-theme` to the list of `plugins` in your `_config.yml` file
-4. Add `remote_theme: daviddarnes/alembic@main` to your `_config.yml` file to set the site theme
-5. Run `bundle exec jekyll serve` to build and serve your site
-6. Done! Use the [configuration](#configuration) documentation and the example [`_config.yml`](https://github.com/daviddarnes/alembic/blob/master/_config.yml) file to set things like the navigation, contact form and social sharing buttons
+### 🔹 Software Developer
+**US Steel** • *June 2020 – April 2022*
 
-### As a Boilerplate / Fork
+- **Mainframe Development:** Debugged COBOL and JCL programs on IBM mainframe systems
+- **Database Applications:** Created and maintained COBOL and .NET applications with Toad SQL databases
+- **Global Impact:** Applications deployed across all US Steel plants globally
+- **Process Leadership:** Managed Quality and Standardization procedures for 5 development teams
 
-_(deprecated, not recommended)_
+---
 
-1. [Fork the repo](https://github.com/daviddarnes/alembic#fork-destination-box)
-2. Replace the `Gemfile` with one stating all the gems used in your project
-3. Delete the following unnecessary files/folders: `.github`, `LICENSE`, `screenshot.png`, `CNAME` and `alembic-jekyll-theme.gemspec`
-4. Run the command `bundle install` in the root of project to install the jekyll remote theme gem as a dependancy
-5. Run `bundle exec jekyll serve` to build and serve your site
-6. Done! Use the [configuration](#configuration) documentation and the example [`_config.yml`](https://github.com/daviddarnes/alembic/blob/master/_config.yml) file to set things like the navigation, contact form and social sharing buttons
+## Featured Projects
 
-## Customising
+### 🏗️ Consolidated Architecture Tool Suite (CATS)
+*Enterprise Architecture Platform for DoD*
 
-When using Alembic as a theme means you can take advantage of the file overriding method. This allows you to overwrite any file in this theme with your own custom file, by matching the file name and path. The most common example of this would be if you want to add your own styles or change the core style settings.
+A comprehensive business architecture platform serving Air Force, Army, and US Transportation Command. Features include:
+- **.NET 8 REST APIs** with **PostgreSQL** database
+- **Angular + Razor** hybrid frontend with custom authorization
+- **BPMN & SysML** diagramming using Joint JS library
+- **DoD Cloud** hosting with enterprise-grade security
 
-To add your own styles copy the [`styles.scss`](https://github.com/daviddarnes/alembic/blob/master/assets/styles.scss) into your own project with the same file path (`assets/styles.scss`). From there you can add your own styles, you can even optionally ignore the theme styles by removing the `@import "alembic";` line.
+**Impact:** Empowers architects to design and visualize complex military systems
 
-If you're looking to set your own colours and fonts you can overwrite them by matching the variable names from the [`_settings.scss`](https://github.com/daviddarnes/alembic/blob/master/_sass/_settings.scss) file in your own `styles.scss`, make sure to state them before the `@import "alembic";` line so they take effect. The settings are a mixture of custom variables and settings from [Sassline](https://medium.com/@jakegiltsoff/sassline-v2-0-e424b2881e7e) - follow the link to find out how to configure the typographic settings.
+### 🏢 Company Portal
+*Internal Business Process Automation*
+
+Leading a team of 3 junior developers to maintain critical business automation platform:
+- **Document Management** with Azurite integration for scalability
+- **Training System** with custom E-signature functionality
+- **Quality Management System** supporting CMMI and ISO processes
+- **NGRX State Management** for complex frontend workflows
+
+### 🏛️ MODOC Domicile
+*Insurance Alternative Platform*
+
+Currently developing innovative insurance solution for Modoc Nation Indian Tribe:
+- **Alternative Insurance Model** replacing traditional captive insurance
+- **Microsoft Identity API** integration for secure authentication
+- **OpenAPI/Swagger** documentation for robust API design
+- **Custom E-signature** functionality for streamlined processes
+
+---
+
+## Education & Certifications
+
+**Bachelor of Science in Computer Science**  
+*Southern Illinois University Edwardsville* • 2021
+
+**Security Clearance & Certifications**
+- 🔒 **Secret Clearance** - US Government
+- 🛡️ **CompTIA Security+** Certification
+
+---
+
+## Let's Connect
+
+I'm always interested in discussing new opportunities, sharing knowledge about modern development practices, or collaborating on exciting projects. Feel free to reach out!
+
+{% include button.html text="Contact Me" icon="email" link="mailto:23andrew16@gmail.com" color="#28a745" %}
