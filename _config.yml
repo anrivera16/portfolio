@@ -96,9 +96,9 @@ lang: en-GB # Set the site language
 title: "Andrew Rivera - Full-Stack Developer" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "Andrew Rivera's professional portfolio - Full-Stack Software Developer specializing in .NET, Angular, and cloud solutions" # Site description and default description, also used in jekyll-seo-tag
-url: "" # Will be set when GitHub Pages is configured
+url: "https://anrivera16.github.io/portfolio" # GitHub Pages URL
 baseurl: ""
-repo: "" # Will be set after repository is created
+repo: "https://github.com/anrivera16/portfolio"
 email: "23andrew16@gmail.com"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
 # date_format: "%-d %B %Y" # Blog post date formatting using placeholder formatting
@@ -134,7 +134,7 @@ navigation_footer:
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   LinkedIn: https://www.linkedin.com/in/andrew-rivera16
-  GitHub: # Will be set after repository is created
+  GitHub: https://github.com/anrivera16/portfolio
   Email: mailto:23andrew16@gmail.com
   RSS: /feed.xml
 
