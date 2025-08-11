@@ -77,6 +77,10 @@ A comprehensive business architecture platform serving Air Force, Army, and US T
 - **BPMN & SysML** diagramming using Joint JS library
 - **DoD Cloud** hosting with enterprise-grade security
 
+![CATS Architecture Diagram](cats_diagram.png)
+
+*CATS Architecture Diagram - Enterprise system design and visualization platform*
+
 **Impact:** Empowers architects to design and visualize complex military systems
 
 ### 🏢 Company Portal
