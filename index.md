@@ -11,7 +11,7 @@ excerpt: "Experienced Full-Stack Developer with expertise in C#, Angular, and cl
 
 I'm a passionate **Full-Stack Software Developer** with over 4 years of experience building enterprise applications using modern technologies. I specialize in **.NET backends**, **Angular frontends**, and **cloud deployments**.
 
-{% include button.html text="LinkedIn" icon="linkedin" link="https://www.linkedin.com/in/andrew-rivera16" color="#0077B5" %} {% include button.html text="Download Resume" link="assets/Andrew_summer_2025_resume.pdf" color="#6c757d" %}
+{% include button.html text="LinkedIn" icon="linkedin" link="https://www.linkedin.com/in/andrew-rivera16" color="#0077B5" %} {% include button.html text="Download Resume" link="/portfolio/assets/Andrew_summer_2025_resume.pdf" color="#6c757d" %}
 
 ## About Me
 
@@ -58,7 +58,7 @@ I'm currently a Full-Stack Software Developer at **Red Cedar Technology Group**,
 - **Azure Deployment:** Deployed as bundled App Service on Azure with Microsoft MSAL authentication
 - **Business Impact:** Streamlined patient record management and medication refill scheduling
 
-![Elevate Health and Wellness Screenshot](assets/dowdy1.png)
+![Elevate Health and Wellness Screenshot](/portfolio/assets/dowdy1.png)
 
 *Elevate Health and Wellness - Healthcare patient management system*
 
@@ -83,7 +83,7 @@ A comprehensive business architecture platform serving Air Force, Army, and US T
 - **BPMN & SysML** diagramming using Joint JS library
 - **DoD Cloud** hosting with enterprise-grade security
 
-![CATS Architecture Diagram](assets/cats2.png)
+![CATS Architecture Diagram](/portfolio/assets/cats2.png)
 
 *CATS Architecture Diagram - Enterprise system design and visualization platform*
 
@@ -98,7 +98,7 @@ Leading a team of 3 junior developers to maintain critical business automation p
 - **Quality Management System** supporting CMMI and ISO processes
 - **NGRX State Management** for complex frontend workflows
 
-![Company Portal Screenshot](assets/porta1.png)
+![Company Portal Screenshot](/portfolio/assets/porta1.png)
 
 *Company Portal - Internal business process automation platform*
 
@@ -111,7 +111,7 @@ Currently developing innovative insurance solution for Modoc Nation Indian Tribe
 - **OpenAPI/Swagger** documentation for robust API design
 - **Custom E-signature** functionality for streamlined processes
 
-![MODOC Domicile Screenshot](assets/modoc1.png)
+![MODOC Domicile Screenshot](/portfolio/assets/modoc1.png)
 
 *MODOC Domicile - Insurance alternative platform for Modoc Nation Indian Tribe*
 

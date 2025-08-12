@@ -95,7 +95,7 @@ defaults:
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "Andrew Rivera - Full-Stack Developer" # Site name or title, also used in jekyll-seo-tag
-logo: "/assets/ar_emblem.png" # Site logo, also used in jekyll-seo-tag
+logo: "/portfolio/assets/ar_emblem.png" # Site logo, also used in jekyll-seo-tag
 description: "Andrew Rivera's professional portfolio - Full-Stack Software Developer specializing in .NET, Angular, and cloud solutions" # Site description and default description, also used in jekyll-seo-tag
 url: "https://anrivera16.github.io/portfolio" # GitHub Pages URL
 baseurl: ""
