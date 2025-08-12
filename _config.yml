@@ -94,7 +94,7 @@ defaults:
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "Andrew Rivera - Full-Stack Developer" # Site name or title, also used in jekyll-seo-tag
-logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
+logo: "/assets/ar_emblem.png" # Site logo, also used in jekyll-seo-tag
 description: "Andrew Rivera's professional portfolio - Full-Stack Software Developer specializing in .NET, Angular, and cloud solutions" # Site description and default description, also used in jekyll-seo-tag
 url: "https://anrivera16.github.io/portfolio" # GitHub Pages URL
 baseurl: ""
@@ -121,12 +121,6 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 
 # 9. Site navigation
 navigation_header:
-- title: Home
-  url: /
-- title: Resume
-  url: /Andrew_summer_2025_resume.pdf
-- title: Contact
-  url: mailto:23andrew16@gmail.com
 
 navigation_footer:
 - title: Andrew Rivera © 2025

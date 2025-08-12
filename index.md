@@ -1,15 +1,17 @@
 ---
-title: Andrew Rivera - Full-Stack Developer
+#title: Andrew Rivera - Full-Stack Developer
 feature_text: |
-  ## Andrew Rivera
-  Full-Stack Software Developer specializing in .NET, Angular, and Cloud Solutions
+  <div style="color: white !important; text-shadow: 2px 2px 4px rgba(0,0,0,0.8) !important;">
+    <h2 style="color: white !important; text-shadow: 2px 2px 4px rgba(0,0,0,0.8) !important;">Andrew Rivera</h2>
+    <p style="color: white !important; text-shadow: 2px 2px 4px rgba(0,0,0,0.8) !important;">Full-Stack Software Developer specializing in .NET, Angular, and Cloud Solutions</p>
+  </div>
 feature_image: "https://picsum.photos/1300/400?image=1043"
 excerpt: "Experienced Full-Stack Developer with expertise in C#, Angular, and cloud technologies. Currently working on enterprise applications for government and private sector clients."
 ---
 
 I'm a passionate **Full-Stack Software Developer** with over 4 years of experience building enterprise applications using modern technologies. I specialize in **.NET backends**, **Angular frontends**, and **cloud deployments**.
 
-{% include button.html text="LinkedIn" icon="linkedin" link="https://www.linkedin.com/in/andrew-rivera16" color="#0077B5" %} {% include button.html text="Email Me" icon="email" link="mailto:23andrew16@gmail.com" color="#EA4335" %} {% include button.html text="Download Resume" link="#" color="#6c757d" %}
+{% include button.html text="LinkedIn" icon="linkedin" link="https://www.linkedin.com/in/andrew-rivera16" color="#0077B5" %} {% include button.html text="Download Resume" link="assets/Andrew_summer_2025_resume.pdf" color="#6c757d" %}
 
 ## About Me
 
@@ -56,6 +58,10 @@ I'm currently a Full-Stack Software Developer at **Red Cedar Technology Group**,
 - **Azure Deployment:** Deployed as bundled App Service on Azure with Microsoft MSAL authentication
 - **Business Impact:** Streamlined patient record management and medication refill scheduling
 
+![Elevate Health and Wellness Screenshot](assets/dowdy1.png)
+
+*Elevate Health and Wellness - Healthcare patient management system*
+
 ### 🔹 Software Developer
 **US Steel** • *June 2020 – April 2022*
 
@@ -77,7 +83,7 @@ A comprehensive business architecture platform serving Air Force, Army, and US T
 - **BPMN & SysML** diagramming using Joint JS library
 - **DoD Cloud** hosting with enterprise-grade security
 
-![CATS Architecture Diagram](cats_diagram.png)
+![CATS Architecture Diagram](assets/cats2.png)
 
 *CATS Architecture Diagram - Enterprise system design and visualization platform*
 
@@ -92,6 +98,10 @@ Leading a team of 3 junior developers to maintain critical business automation p
 - **Quality Management System** supporting CMMI and ISO processes
 - **NGRX State Management** for complex frontend workflows
 
+![Company Portal Screenshot](assets/porta1.png)
+
+*Company Portal - Internal business process automation platform*
+
 ### 🏛️ MODOC Domicile
 *Insurance Alternative Platform*
 
@@ -100,6 +110,10 @@ Currently developing innovative insurance solution for Modoc Nation Indian Tribe
 - **Microsoft Identity API** integration for secure authentication
 - **OpenAPI/Swagger** documentation for robust API design
 - **Custom E-signature** functionality for streamlined processes
+
+![MODOC Domicile Screenshot](assets/modoc1.png)
+
+*MODOC Domicile - Insurance alternative platform for Modoc Nation Indian Tribe*
 
 ---
 
@@ -117,5 +131,3 @@ Currently developing innovative insurance solution for Modoc Nation Indian Tribe
 ## Let's Connect
 
 I'm always interested in discussing new opportunities, sharing knowledge about modern development practices, or collaborating on exciting projects. Feel free to reach out!
-
-{% include button.html text="Contact Me" icon="email" link="mailto:23andrew16@gmail.com" color="#28a745" %}
